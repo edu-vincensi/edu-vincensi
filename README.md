@@ -2,7 +2,7 @@
 
 -⚖️Acadêmico em Direito
 
--💡Aprendiz em linguagem de programação Java, PHP e HTML
+-💡Aprendiz em linguagem de programação Java, PHP aprendendo HTML e CSS
 
 
 - Contatos:

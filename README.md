@@ -1,9 +1,6 @@
 -💻Acadêmico em Análise e desenvolvimento de Sistemas
 
 - Estagiário de PO (SETIC-RO)
-  
-
--⚖️Acadêmico em Direito
 
 -💡Aprendiz em linguagem de programação Java, PHP e aprendendo HTML e CSS
 

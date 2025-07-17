@@ -1,6 +1,7 @@
 -💻Acadêmico em Análise e desenvolvimento de Sistemas
 
 - Estagiário de PO (SETIC-RO)
+  
 
 -⚖️Acadêmico em Direito
 

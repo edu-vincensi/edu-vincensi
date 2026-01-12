@@ -3,7 +3,7 @@
 - PO (SETIC-RO)
 
 -💡 Conhecimentos em linguagem de programação Java, PHP, C# e JavaScript
-- 😀 Experiência com NextJs, NodeJs, React e .NET
+-😀 Experiência com NextJs, NodeJs, React e .NET
 
 
 - Contatos:

@@ -1,8 +1,9 @@
--💻Acadêmico em Análise e desenvolvimento de Sistemas
+-💻 Formado em Análise e Desenvolvimento de Sistemas - IFRO
 
-- Estagiário de PO (SETIC-RO)
+- PO (SETIC-RO)
 
--💡Aprendiz em linguagem de programação Java, PHP e aprendendo HTML e CSS
+-💡 Conhecimentos em linguagem de programação Java, PHP, C# e JavaScript
+- 😀 Experiência com NextJs, NodeJs, React e .NET
 
 
 - Contatos:
